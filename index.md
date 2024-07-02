@@ -6,7 +6,6 @@ title: luminary
 
 hero:
   name: "luminary"
-  # text: 记录回忆，知识和畅想的地方
   tagline: 记录回忆，知识和畅想的地方
   image:
     src: /home.webp
