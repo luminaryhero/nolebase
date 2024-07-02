@@ -7,8 +7,15 @@ import { siteName } from '../../../metadata'
   <div class="content">
     <div class="content-container">
       <main class="main">
-        
+  
       </main>
     </div>
   </div>
 </template>
+
+
+<style>
+.VPHome {
+  margin-bottom: 0px !important;
+}
+</style>

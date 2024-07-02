@@ -114,7 +114,7 @@ export default defineConfig({
     }],
     // Proxying Plausible through Netlify | Plausible docs
     // https://plausible.io/docs/proxy/guides/netlify
-    ['script', { 'defer': 'true', 'data-domain': 'nolebase.ayaka.io', 'data-api': '/api/v1/page-external-data/submit', 'src': '/assets/page-external-data/js/script.js' }],
+    // ['script', { 'defer': 'true', 'data-domain': 'nolebase.ayaka.io', 'data-api': '/api/v1/page-external-data/submit', 'src': '/assets/page-external-data/js/script.js' }],
   ],
   themeConfig: {
     outline: { label: '页面大纲', level: 'deep' },
@@ -127,11 +127,11 @@ export default defineConfig({
     //   { icon: 'github', link: githubRepoLink },
     //   { icon: 'discord', link: discordLink },
     // ],
-    // footer: {
-    //   message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
-    //   copyright:
-    //     '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT'
-    // },
+    footer: {
+      message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
+      copyright:
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT'
+    },
     search: {
       provider: 'local',
       options: {

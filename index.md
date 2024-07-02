@@ -2,26 +2,22 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: luminary
 
 hero:
-  name: luminary
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: "luminary"
+  # text: 记录回忆，知识和畅想的地方
+  tagline: 记录回忆，知识和畅想的地方
   image:
-    src: /logo.svg
+    src: /home.webp
     alt: logo
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 📒 笔记
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
-    - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      text: ✏️ 最近更新
+      link: /toc
 
 features:
   - title: 多样的主题和内容
