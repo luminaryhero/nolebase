@@ -21,15 +21,15 @@ export default defineConfig(async () => {
     },
     plugins: [
       Inspect(),
-      GitChangelog({
-        repoURL: () => githubRepoLink,
-      }),
-      GitChangelogMarkdownSection({
-        excludes: [
-          'toc.md',
-          'index.md',
-        ],
-      }),
+      // GitChangelog({
+      //   repoURL: () => githubRepoLink,
+      // }),
+      // GitChangelogMarkdownSection({
+      //   excludes: [
+      //     'toc.md',
+      //     'index.md',
+      //   ],
+      // }),
       PageProperties(),
       PagePropertiesMarkdownSection({
         excludes: [
