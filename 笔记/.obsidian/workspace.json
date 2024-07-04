@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "56b7429f9c450469",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfd5305aaf8c071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa3b87754a356d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛠️ 开发/git常用命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f7d0582d95e8097",
+    "type": "split",
+    "children": [
+      {
+        "id": "419fb252d768eda5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971871a25a5cc5e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cec42e8fb00db5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16efe4021bdda58a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fa19c5183769a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3066677837ccdc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13db8085a55f5d4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🛠️ 开发/git常用命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cfbec6b0ab4cbe4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🛠️ 开发/git常用命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b441330a05bf7cac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0abdde36b767053c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🛠️ 开发/git常用命令.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fa3b87754a356d13",
+  "lastOpenFiles": [
+    "🛠️ 开发/生成SSH公钥.md",
+    "💾 软件/笔记软件/Obsidian.md",
+    "🛠️ 开发/git常用命令.md",
+    "🛠️ 开发/上传 Docker 镜像.md",
+    "☀️ 生活/🏠 租房/租房流程.md",
+    "上传 Docker 镜像.md",
+    "🛠️ 开发",
+    "📦 收集箱/🤖️ AI/有一个服务该领域的 AI 应用 - AI 应用索引中心.md",
+    "📦 收集箱/🔖 词条/PTAL（英语）.md",
+    "📦 收集箱/🤖️ AI/Outline.md",
+    "📦 收集箱/🔖 词条/LX.md",
+    "📦 收集箱/🤖️ AI/Bloop.ai.md",
+    "📦 收集箱/🔖 词条/IIAL（英语）.md",
+    "📦 收集箱/🔖 词条/CN.md",
+    "📦 收集箱/📁 资源/远程工作各种资源.md",
+    "📦 收集箱/📁 资源/番剧资源.md",
+    "📦 收集箱/📁 资源/独立开发项目宣传网站.md",
+    "📦 收集箱/📁 资源/漫画资源.md",
+    "📦 收集箱/📁 资源/影视资源.md",
+    "📦 收集箱/📁 资源/字幕资源.md",
+    "📦 收集箱/📁 资源/国内大模型共享平台.md",
+    "📦 收集箱/📁 资源/AI 资源导航.md",
+    "📦 收集箱/📁 资源/2023 年排名前 10 的 AI 和 LLM 应用.md",
+    "📦 收集箱/🤖️ AI",
+    "📦 收集箱/🔖 词条",
+    "📦 收集箱/💾 软件",
+    "📦 收集箱/📁 资源",
+    "📦 收集箱/🌍 网站",
+    "📦 收集箱/🐙 GitHub 项目",
+    "📦 收集箱",
+    "📟 终端",
+    "📚 个人知识管理",
+    "💾 软件/笔记软件/Obsidian 插件收藏.md",
+    "💾 软件/笔记软件/笔记软件.md",
+    "💾 软件/🛠 VS Code/解决 VS Code 不能在只读卷上更新.md",
+    "💾 软件/笔记软件/Notion.md"
+  ]
+}
