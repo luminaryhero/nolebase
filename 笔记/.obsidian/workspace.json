@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ 开发/git常用命令.md",
+                "file": "📦 收集箱/📁 资源/AI 资源导航.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ 开发/git常用命令.md",
+                "file": "📦 收集箱/📁 资源/AI 资源导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ 开发/git常用命令.md",
+                "file": "📦 收集箱/📁 资源/AI 资源导航.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ 开发/git常用命令.md"
+                "file": "📦 收集箱/📁 资源/AI 资源导航.md"
               }
             }
           }
@@ -147,10 +147,20 @@
   },
   "active": "fa3b87754a356d13",
   "lastOpenFiles": [
-    "🛠️ 开发/生成SSH公钥.md",
-    "💾 软件/笔记软件/Obsidian.md",
+    "📦 收集箱/📁 资源/字幕资源.md",
+    "📦 收集箱/📁 资源/远程工作各种资源.md",
+    "📦 收集箱/📁 资源/影视资源.md",
+    "📦 收集箱/📁 资源/漫画资源.md",
+    "📦 收集箱/📁 资源/国内大模型共享平台.md",
+    "📦 收集箱/📁 资源/番剧资源.md",
+    "📦 收集箱/📁 资源/独立开发项目宣传网站.md",
+    "📦 收集箱/📁 资源/2023 年排名前 10 的 AI 和 LLM 应用.md",
     "🛠️ 开发/git常用命令.md",
+    "🛠️ 开发/生成SSH公钥.md",
     "🛠️ 开发/上传 Docker 镜像.md",
+    "📦 收集箱/🐙 GitHub 项目/nolebase.md",
+    "nolebase.ayaka.io.md",
+    "💾 软件/笔记软件/Obsidian.md",
     "☀️ 生活/🏠 租房/租房流程.md",
     "上传 Docker 镜像.md",
     "🛠️ 开发",
@@ -161,15 +171,7 @@
     "📦 收集箱/🤖️ AI/Bloop.ai.md",
     "📦 收集箱/🔖 词条/IIAL（英语）.md",
     "📦 收集箱/🔖 词条/CN.md",
-    "📦 收集箱/📁 资源/远程工作各种资源.md",
-    "📦 收集箱/📁 资源/番剧资源.md",
-    "📦 收集箱/📁 资源/独立开发项目宣传网站.md",
-    "📦 收集箱/📁 资源/漫画资源.md",
-    "📦 收集箱/📁 资源/影视资源.md",
-    "📦 收集箱/📁 资源/字幕资源.md",
-    "📦 收集箱/📁 资源/国内大模型共享平台.md",
     "📦 收集箱/📁 资源/AI 资源导航.md",
-    "📦 收集箱/📁 资源/2023 年排名前 10 的 AI 和 LLM 应用.md",
     "📦 收集箱/🤖️ AI",
     "📦 收集箱/🔖 词条",
     "📦 收集箱/💾 软件",
@@ -180,8 +182,6 @@
     "📟 终端",
     "📚 个人知识管理",
     "💾 软件/笔记软件/Obsidian 插件收藏.md",
-    "💾 软件/笔记软件/笔记软件.md",
-    "💾 软件/🛠 VS Code/解决 VS Code 不能在只读卷上更新.md",
-    "💾 软件/笔记软件/Notion.md"
+    "💾 软件/笔记软件/笔记软件.md"
   ]
 }

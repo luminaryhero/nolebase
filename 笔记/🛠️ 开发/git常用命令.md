@@ -1,7 +1,7 @@
 ---
 tags:
   - git
-status: 尚未完成
+status: 已完成
 ---
 # git常用命令
 
