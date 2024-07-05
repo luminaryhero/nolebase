@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📦 收集箱/🌍 网站/通往AGI之路.md",
+                "file": "📦 收集箱/💾 软件/LM Studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📦 收集箱/🌍 网站/通往AGI之路.md",
+                "file": "📦 收集箱/💾 软件/LM Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📦 收集箱/🌍 网站/通往AGI之路.md",
+                "file": "📦 收集箱/💾 软件/LM Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📦 收集箱/🌍 网站/通往AGI之路.md"
+                "file": "📦 收集箱/💾 软件/LM Studio.md"
               }
             }
           }
@@ -147,10 +147,12 @@
   },
   "active": "fa3b87754a356d13",
   "lastOpenFiles": [
-    "📦 收集箱/🐙 GitHub 项目/nolebase.md",
+    "📦 收集箱/🌍 网站/Hugging Face.md",
+    "📦 收集箱/🌍 网站/picx.md",
+    "📦 收集箱/💾 软件/LM Studio.md",
     "📦 收集箱/🌍 网站/海棠诗社.md",
     "📦 收集箱/🌍 网站/通往AGI之路.md",
-    "📦 收集箱/🌍 网站/picx.md",
+    "📦 收集箱/🐙 GitHub 项目/nolebase.md",
     "🛠️ 开发/Git子模块简明教程.md",
     "🛝 娱乐/📖 阅读/index.md",
     "🛠️ 开发/Git submodule 子模块简明教程",
@@ -180,8 +182,6 @@
     "nolebase.ayaka.io.md",
     "💾 软件/笔记软件/Obsidian.md",
     "☀️ 生活/🏠 租房/租房流程.md",
-    "上传 Docker 镜像.md",
-    "📦 收集箱/🤖️ AI/有一个服务该领域的 AI 应用 - AI 应用索引中心.md",
-    "📦 收集箱/🔖 词条/PTAL（英语）.md"
+    "上传 Docker 镜像.md"
   ]
 }
